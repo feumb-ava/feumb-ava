@@ -1,16 +1,43 @@
-## Hi there 👋
+<h2 align="center"> oh, hi :) 💖 </h2>
+<div align="center">
+<img src="https://raw.githubusercontent.com/fe-umb/fe-umb/main/taiga.gif">
+</div>
+<p align="center">👩🏼‍💻 My name is Fernanda, I'm 25 years old and currently working at Avanade as a developer. </p>
+<p align="center">I'm graduated in Computer Science and I'm a Data Science and Infosec specialist. You can check more at my <a href="https://www.linkedin.com/in/fernanda-umberto/">LinkedIn profile</a> :) </p>
+<p align="center">Currently working with Dynamics 365 customisations (Plugin, Javascript, HTML), Power Platform (Power Automate, Power Apps, Dataverse) and Azure (Functions and Service Bus). </p>
+<p align="center">🤓 Languages: brazilian portuguese, english and spanish. </p>
+<p align="center">📓 Now studying: Azure Functions and Azure Service Bus </p>
+<hr>
+<b>Favourite programming languages:</b>
+<ul>
+  <li>Java ❤️</li>
+  <li>C# - main programming language</li>
+  <li>C/C++</li>
+  <li>Python</li>
+  <li>Haskell</li>
+  <li>Prolog</li>
+</ul>
 
-<!--
-**feumb-ava/feumb-ava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<b>Other skills/Interests:</b>
+<ul>
+  <li>Dynamics 365 customisations</li>
+  <li>Power Platform (Power Automate, Power BI, PowerApps and Power Virtual Agents)</li>
+  <li>Front-end development using HTML, CSS and JavaScript</li>
+  <li>Collecting, treating and analyzing data</li>
+  <li>Linux distros</li>
+  <li>Data modeling</li>
+  <li>SQL Server, MySQL and SQLite</li>
+  <li>Open-source Softwares</li>
+</ul>
+<hr>
+<h2 align="center"> github stats 💖 </h2>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fe-umb&theme=dracula&layout=compact" />
+<br>
+</div>
+<br>
+<div align="center">
+<img src="https://64.media.tumblr.com/tumblr_lqoh6yVDEy1r1e5pio1_500.gifv">
+</div>
+<br>
+<p align="center"> see ya :) </p>
